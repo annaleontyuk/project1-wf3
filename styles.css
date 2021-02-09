@@ -46,3 +46,21 @@ li{
     color: white;
     text-align: center;
   }
+
+  .section {
+    /*height: 20vh;
+    width: 80vh;
+    background-color: pink;
+    margin: 90px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;*/
+
+    background-color: pink;
+    position: relative;
+    height: 120px;
+    margin: 30px;
+    text-align: center;    
+}
